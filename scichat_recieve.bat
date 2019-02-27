@@ -1,7 +1,6 @@
 @echo off
 set /p Room=Pokuj (pusty to publiczny):
 :start
-if not exist "P:\CHAT_SCI\ROOM%room%\" mkdir P:\CHAT_SC\ROOM%room%I\
 cls
 type P:\CHAT_SCI\ROOM%room%\head.txt
 type P:\CHAT_SCI\ROOM%room%\27.txt
